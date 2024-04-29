@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Maruti Suzuki",
+    "image": "../assets/images/maruti-suzuki.png"
+  },
+  {
+    "id": 2,
+    "title": "Hyundai",
+    "image": "../assets/images/hyundai.png"
+  },
+  {
+    "id": 3,
+    "title": "Renault",
+    "image": "../assets/images/renault.png"
+  },
+  {
+    "id": 4,
+    "title": "Honda",
+    "image": "../assets/images/honda.png"
+  },
+  {
+    "id": 5,
+    "title": "Tata",
+    "image": "../assets/images/tata.png"
+  },
+  {
+    "id": 6,
+    "title": "Ford",
+    "image": "../assets/images/ford.png"
+  },
+  {
+    "id": 7,
+    "title": "Volkswagon",
+    "image": "../assets/images/ford.png"
+  }
+]
